@@ -30,7 +30,7 @@ namespace Prova_distruttore
 
         // Metodi accessor
         public string GetStringa()
-        {
+        { 
             return stringa;
         }
 
